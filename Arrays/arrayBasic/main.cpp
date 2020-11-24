@@ -11,7 +11,6 @@ int main() {
 	for(int i=0;i<=10;i++)
 	{
 	    std::cout << arr[i] << std::endl;
-	    cout<<"hi"<<endl;
 	}
 
 	return 0;
